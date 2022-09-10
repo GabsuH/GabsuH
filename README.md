@@ -1,4 +1,4 @@
-## E aí! Me chamo Gabriel, mas pode me chamar de GabsuH
+## E aí
 <div align="center">
   <a href="https://github.com/GabsuH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsuH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
